@@ -21,7 +21,30 @@ A simple and intuitive Todo application built with React for the frontend and Fi
   - **Hosting**: For deploying the application.
 - **React Router**: For navigation between different pages.
 - **React Toastify**: For user-friendly notifications.
-- **CSS**: For styling the application.
+- **Tailwind CSS**: For styling the application.
+
+
+## Technologies Used
+
+
+## Sign In Screen
+
+<img src="./screenshots/signin.png" alt="Login Page" width="400">
+
+## Sign Up Page
+
+<img src="./screenshots/signup.png" alt="Register Page" width="400">
+
+## Home Page
+
+<img src="./screenshots/home.png" alt="Home Page" width="400">
+
+
+## Demo
+
+Check out the live demo of the app here: [Live Demo](https://test-fe4d7.web.app/)
+
+
 
 ## Getting Started
 
