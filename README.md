@@ -24,7 +24,7 @@ A simple and intuitive Todo application built with React for the frontend and Fi
 - **Tailwind CSS**: For styling the application.
 
 
-## Technologies Used
+## Screenshots
 
 
 ## Sign In Screen
@@ -59,5 +59,5 @@ Follow these instructions to set up the project locally.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/Badrudin-cloud/react-and-firebase-todo-app.git
+   cd react-and-firebase-todo-app
