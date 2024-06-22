@@ -1,6 +1,5 @@
 # React & Firebase Todo App
 
-![React & Firebase Todo App]
 
 A simple and intuitive Todo application built with React for the frontend and Firebase for the backend. This project demonstrates how to create, read, mark as complete and delete on a todo list using Firebase Firestore. It also includes user authentication to ensure that each user's todos are private.
 
