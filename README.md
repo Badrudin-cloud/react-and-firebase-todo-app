@@ -7,8 +7,7 @@ A simple and intuitive Todo application built with React for the frontend and Fi
 ## Features
 
 - **User Authentication**: Sign up and login using Firebase Authentication.
-- **CRUD Operations**: Add, edit, mark as complete, and delete todos.
-- **Real-time Updates**: Automatically updates the UI with real-time changes using Firestore.
+- **CRUD Operations**: Add,  mark as complete, and delete todos.
 - **Responsive Design**: Works on both desktop and mobile devices.
 - **Firebase Hosting**: Hosted on Firebase for seamless deployment and access.
 
