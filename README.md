@@ -29,15 +29,15 @@ A simple and intuitive Todo application built with React for the frontend and Fi
 
 ## Sign In Screen
 
-<img src="./screenshots/signin.png" alt="Login Page" width="400">
+<img src="./screenshots/signin.PNG" alt="Login Page" width="400">
 
 ## Sign Up Page
 
-<img src="./screenshots/signup.png" alt="Register Page" width="400">
+<img src="./screenshots/signup.PNG" alt="Register Page" width="400">
 
 ## Home Page
 
-<img src="./screenshots/home.png" alt="Home Page" width="400">
+<img src="./screenshots/home.PNG" alt="Home Page" width="400">
 
 
 ## Demo
